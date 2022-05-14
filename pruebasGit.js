@@ -1,3 +1,0 @@
-
-"modificar"
-"subir repo" 
