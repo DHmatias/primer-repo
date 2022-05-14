@@ -1,2 +1,0 @@
-"repo local" 
-"repo remoto"
